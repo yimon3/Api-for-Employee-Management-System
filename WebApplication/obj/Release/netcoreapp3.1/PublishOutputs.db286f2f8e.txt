@@ -1,0 +1,17 @@
+D:\Vue js + .net Core\Dot net web api\WebApplication\WebApplication\obj\Release\netcoreapp3.1\PubTmp\Out\WebApplication.exe
+D:\Vue js + .net Core\Dot net web api\WebApplication\WebApplication\obj\Release\netcoreapp3.1\PubTmp\Out\appsettings.Development.json
+D:\Vue js + .net Core\Dot net web api\WebApplication\WebApplication\obj\Release\netcoreapp3.1\PubTmp\Out\appsettings.json
+D:\Vue js + .net Core\Dot net web api\WebApplication\WebApplication\obj\Release\netcoreapp3.1\PubTmp\Out\WebApplication.dll
+D:\Vue js + .net Core\Dot net web api\WebApplication\WebApplication\obj\Release\netcoreapp3.1\PubTmp\Out\WebApplication.deps.json
+D:\Vue js + .net Core\Dot net web api\WebApplication\WebApplication\obj\Release\netcoreapp3.1\PubTmp\Out\WebApplication.runtimeconfig.json
+D:\Vue js + .net Core\Dot net web api\WebApplication\WebApplication\obj\Release\netcoreapp3.1\PubTmp\Out\WebApplication.pdb
+D:\Vue js + .net Core\Dot net web api\WebApplication\WebApplication\obj\Release\netcoreapp3.1\PubTmp\Out\Microsoft.AspNetCore.JsonPatch.dll
+D:\Vue js + .net Core\Dot net web api\WebApplication\WebApplication\obj\Release\netcoreapp3.1\PubTmp\Out\Microsoft.AspNetCore.Mvc.NewtonsoftJson.dll
+D:\Vue js + .net Core\Dot net web api\WebApplication\WebApplication\obj\Release\netcoreapp3.1\PubTmp\Out\Newtonsoft.Json.dll
+D:\Vue js + .net Core\Dot net web api\WebApplication\WebApplication\obj\Release\netcoreapp3.1\PubTmp\Out\Newtonsoft.Json.Bson.dll
+D:\Vue js + .net Core\Dot net web api\WebApplication\WebApplication\obj\Release\netcoreapp3.1\PubTmp\Out\System.Data.SqlClient.dll
+D:\Vue js + .net Core\Dot net web api\WebApplication\WebApplication\obj\Release\netcoreapp3.1\PubTmp\Out\runtimes\win-arm64\native\sni.dll
+D:\Vue js + .net Core\Dot net web api\WebApplication\WebApplication\obj\Release\netcoreapp3.1\PubTmp\Out\runtimes\win-x64\native\sni.dll
+D:\Vue js + .net Core\Dot net web api\WebApplication\WebApplication\obj\Release\netcoreapp3.1\PubTmp\Out\runtimes\win-x86\native\sni.dll
+D:\Vue js + .net Core\Dot net web api\WebApplication\WebApplication\obj\Release\netcoreapp3.1\PubTmp\Out\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+D:\Vue js + .net Core\Dot net web api\WebApplication\WebApplication\obj\Release\netcoreapp3.1\PubTmp\Out\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
