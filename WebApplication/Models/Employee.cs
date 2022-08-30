@@ -5,6 +5,9 @@ using System.Threading.Tasks;
 
 namespace WebApplication.Models
 {
+    /// <summary>
+    /// Define employee class
+    /// </summary>
     public class Employee
     {
         public int employeeId { get; set; }
